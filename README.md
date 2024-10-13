@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Laravel, Liveware, React.js**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **Java, Php, Laravel**
 
 - 📫 How to reach me **spdh427@gmail.com**
 
