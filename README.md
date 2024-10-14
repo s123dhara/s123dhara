@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm mrcodex</h1>
 <h3 align="center">A passionate Backend developer from India and I love to solve every POTD Of CP Problems</h3>
-<p align="center">I useed to participate in CP Competetion</p>
+<p align="center">I useed to participate in CP competition</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s123dhara&label=Profile%20views&color=0e75b6&style=flat" alt="s123dhara" /> </p>
 
