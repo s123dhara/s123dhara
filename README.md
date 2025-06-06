@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=s123dhara" alt="s123dhara" /></a> </p>
 
-- 🔭 I’m currently working on [Laravel Single Vendor Ecommerce](https://github.com/s123dhara/Single-Vendor-Ecommerce-Using-TFLL-STACK)
+- 🔭 I’m currently working on [AI SUMMARIZER SAAS APPLICATION](https://github.com/s123dhara/AI-Summarizer)
 
 - 🌱 I’m currently learning **React.js, Springboot**
 
