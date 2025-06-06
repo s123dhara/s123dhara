@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm mrcodex</h1>
-<h3 align="center">A passionate Backend developer from India and I love to solve every POTD Of CP Problems</h3>
-<p align="center">I useed to participate in CP competition and I have ranked in below 100K in Leetcode</p>
+<h1 align="center">Hi 👋, I'm mrcodex (a.k.a Supriyo Dhara)</h1>
+<h3 align="center">A passionate Backend developer from India and I love to solve DSA Problems</h3>
+<p align="center">I useed to solve DSA Problems and I have ranked in below 60K in Leetcode</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s123dhara&label=Profile%20views&color=0e75b6&style=flat" alt="s123dhara" /> </p>
 
@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on [Laravel Single Vendor Ecommerce](https://github.com/s123dhara/Single-Vendor-Ecommerce-Using-TFLL-STACK)
 
-- 🌱 I’m currently learning **Laravel, Liveware, React.js**
+- 🌱 I’m currently learning **React.js, Springboot**
 
-- 💬 Ask me about **Java, Php, Laravel, Nodejs, cakePHP,**
+- 💬 Ask me about **Java, Php, Python, Laravel, cakePHP, NodeJS, NestJs, Flask**
 
 - 📫 How to reach me **spdh427@gmail.com**
 
